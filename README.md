@@ -31,7 +31,6 @@ Take a look in `TODO.md` for next steps you can try out in your new site!
 
 ## Git
 
-
 …or create a new repository on the command line
 echo "# csa-project-sample-glitch" >> README.md
 git init
@@ -40,7 +39,6 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/king-jordan/csa-project-sample-glitch.git
 git push -u origin main
-
 
 …or push an existing repository from the command line
 git remote add origin https://github.com/king-jordan/csa-project-sample-glitch.git
