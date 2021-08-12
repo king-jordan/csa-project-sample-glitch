@@ -4,7 +4,7 @@ This is a basic HTML starter project you can build on however you like. No need 
 
 ## What's in this project?
 
-← `README.md`: This file, where you can tell people what your cool website does and how you built it.
+← `README.md`: This project is about Dragon's there are alot of games out there that are 
 
 ← `index.html`: This is the main web page for your site. The HTML defines the structure and content of the page using _elements_. You'll see references in the HTML to the JS and CSS files. Try clicking the image in the center of the page!
 
